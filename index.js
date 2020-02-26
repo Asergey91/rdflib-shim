@@ -1,2 +1,3 @@
 const rdflib=require('rdflib');
-export default rdflib;
+exports.__esModule=true;
+exports.default=rdflib;
